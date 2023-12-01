@@ -4,6 +4,8 @@ export default function App() {
   return (
     <div>
       <h1>React repo</h1>
+      <p>Lorem ipsum dolor sit amet.</p>
+      <p>Lorem ipsum dolor sit amet.</p>
     </div>
   )
 }
